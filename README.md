@@ -9,6 +9,7 @@ Tas 2 - Personalized Greeting
 Takes first name and last name and concatenates both names and prints a personalized greeting message.
 
 **Assignment 2**
+
 Task 1: Check if a Number is Even or Odd
 Problem Statement:  Write a Python program that:
 1. 	Takes an integer input from the user.
